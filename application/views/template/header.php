@@ -10,6 +10,11 @@
 
     <!-- App Styling Bundle -->
     <link href="/kathanayake/dist/css/default.min.css" rel="stylesheet">
+    
+    <!--high charts-->
+    <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="/kathanayake/dist/js/highcharts.js"></script>-->
+	
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     
