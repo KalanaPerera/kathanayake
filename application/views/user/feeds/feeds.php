@@ -17,7 +17,36 @@
     
     <div class="col-md-8">
 
-        <div class="timeline row " >
+       
+        
+        <!-- Button trigger modal -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+        
+        
+        
+        
+        <div class="timeline row feeds" >
                  <div class="timeline-block">
                 <div class="panel panel-default">
                     <div class="panel-heading" style="background:  #869694 !important">
@@ -26,9 +55,32 @@
                                 <img src="/kathanayake/dist/images/people/50/guy-2.jpg" class="media-object">
                             </a>
                             <div class="media-body">
-                                <a href="#" class="pull-right text-muted"><i class="icon-reply-all-fill fa fa-2x "></i></a>
+                                
+                                
+                                
+           
+                                
+                                
+                                
+                               <div class="rating text-left pull-right">
+                                <span class="star"></span>
+                                <span class="star "></span>
+                                <span class="star "></span>
+                                <span class="star "></span>
+                                <span class="star "></span>
+                            </div>
+                                
+                                <button style="margin-right: 20px;" type="button" class="btn  btn-warning pull-right" data-toggle="modal" data-target="#myModal">
+  share
+</button>
                                 <a href="">Jonathan</a>
                                 <span>on 15th January, 2014</span>
+                                
+        
+                                
+                                
+                                
+                                
                             </div>
                         </div>
                     </div>
@@ -92,6 +144,9 @@
                                 <span class="star "></span>
                             </div>
                                 
+                                                        <button style="margin-right: 20px;" type="button" class="btn  btn-warning pull-right" data-toggle="modal" data-target="#myModal">
+  share
+</button>
                                 
                                 <a href="">Jonathan</a>
                                 <span>on 15th January, 2014</span>
@@ -172,6 +227,38 @@
     
     
       <div class="col-md-4">
+          
+  <div class="timeline-block">
+                <div class="panel panel-default event">
+                    <div class="panel-heading title">
+                       PM Rankings (latest) 
+                    </div>
+                    <ul class="list-group">
+                        <li class="list-group-item"><i class="fa fa-globe"></i> Miami, FL</li>
+                        <li class="list-group-item"><i class="fa fa-calendar-o"></i> 31st Oct 2014</li>
+                        <li class="list-group-item"><i class="fa fa-clock-o"></i> 5:50 PM</li>
+                        <li class="list-group-item"><i class="fa fa-users"></i> 9 Attendees <a href="#" class="btn btn-primary btn-xs pull-right">Attend</a>
+                        </li>
+                    </ul>
+                 
+                    <div class="clearfix"></div>
+                </div>
+            </div>          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
         
     </div>
 

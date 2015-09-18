@@ -16,11 +16,11 @@
                     
                     //22DB52
                     
-                    $('.timeline-block .panel').hover(function(){
+                    $('.feeds .timeline-block .panel').hover(function(){
                         $(this).css('border','2px solid #3DC1ED')
                     },function(){
                         $(this).removeAttr('style')
-                    })
+                    });
                     
                 })
                 
