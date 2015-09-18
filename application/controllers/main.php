@@ -11,10 +11,13 @@ class main extends CI_CONTROLLER{
         $this->load->view('template/header');
         $this->load->view('main');
         $this->load->view('template/footer');
-        
-        
-        
+                
     }
+    
+   
+    
+    
+    
     
     
     

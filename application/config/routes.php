@@ -42,5 +42,11 @@ $route['default_controller'] = "main";
 $route['404_override'] = '';
 
 
+
+$route['login'] = "user/user/login_page";
+$route['feeds'] = "user/feeds/index";
+$route['feeds/id/(:any)'] = "user/feeds/feeds_by_id";
+
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

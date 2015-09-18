@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a data-toggle="sidebar-chat" class="btn btn-link navbar-btn visible-xs"><i class="fa fa-comments"></i></a>
-                <a class="navbar-brand" href="index.html">Social</a>
+                <a class="navbar-brand" href="">Social</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -61,7 +61,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li data-toggle="tooltip" data-placement="bottom" title="A few Color Examples. Download includes CSS Files for all color examples & the tools to Generate any Color combination. This Color-Switcher is for previewing purposes only.">
+<!--                    <li data-toggle="tooltip" data-placement="bottom" title="A few Color Examples. Download includes CSS Files for all color examples & the tools to Generate any Color combination. This Color-Switcher is for previewing purposes only.">
                         <ul class="skins">
                             <li><span data-skin="default" style="background: #16ae9f "></span>
                             </li>
@@ -76,7 +76,7 @@
                             <li><span data-skin="default-nav-inverse" style="background: #242424 "></span>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden-xs">
@@ -107,10 +107,10 @@
     </div>
     
     
-    <nav class="navbar navbar-subnav navbar-static-top" role="navigation">
+<!--    <nav class="navbar navbar-subnav navbar-static-top" role="navigation">
         <div class="container">
 
-            <!-- Brand and toggle get grouped for better mobile display -->
+             Brand and toggle get grouped for better mobile display 
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subnav">
                     <span class="sr-only">Toggle navigation</span>
@@ -118,7 +118,7 @@
                 </button>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
+             Collect the nav links, forms, and other content for toggling 
             <div class="collapse navbar-collapse" id="subnav">
                 <ul class="nav navbar-nav">
                     <li class="active">
@@ -140,6 +140,6 @@
                 </ul>
             </div>
 
-            <!-- /.navbar-collapse -->
+             /.navbar-collapse 
             </div>
-    </nav>
+    </nav>-->

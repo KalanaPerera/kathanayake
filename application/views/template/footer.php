@@ -9,5 +9,21 @@
 
     <!-- App Scripts Bundle -->
     <script src="/kathanayake/dist/js/scripts.min.js"></script>
+    
+      <script>
+                
+                $(document).ready(function(){
+                    
+                    //22DB52
+                    
+                    $('.timeline-block .panel').hover(function(){
+                        $(this).css('border','2px solid #3DC1ED')
+                    },function(){
+                        $(this).removeAttr('style')
+                    })
+                    
+                })
+                
+            </script>
 </body>
 </html>
