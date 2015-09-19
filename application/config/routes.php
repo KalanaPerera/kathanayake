@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "main";
+$route['default_controller'] = "user/feeds/index";
 $route['404_override'] = '';
 
 
