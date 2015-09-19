@@ -11,6 +11,18 @@
     <!-- App Styling Bundle -->
     <link href="/kathanayake/dist/css/default.min.css" rel="stylesheet">
     
+        
+<!-- Vendor Scripts Bundle --><script src="/kathanayake/dist/js/vendor.min.js"></script>
+
+    <!-- App Scripts Bundle -->
+    <script src="/kathanayake/dist/js/scripts.min.js"></script>
+    
+    
+    
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
+    
     <!--high charts-->
 <!--    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script src="http://code.highcharts.com/highcharts.js"></script>
