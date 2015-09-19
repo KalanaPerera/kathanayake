@@ -27,6 +27,18 @@ class main extends CI_CONTROLLER{
     }
     
     
+    public function fund_project(){
+        
+        $this->load->view('template/header');
+        $this->load->view('fund_project');
+        $this->load->view('template/footer');
+        
+        
+        
+        
+    }
+    
+    
     
     
     
