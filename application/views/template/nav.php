@@ -9,7 +9,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a data-toggle="sidebar-chat" class="btn btn-link navbar-btn visible-xs"><i class="fa fa-comments"></i></a>
-                <a class="navbar-brand" href="">Social</a>
+                 <img src="/kathanayake/dist/images/logo-square_50.png" class="img-circle" align="left">
+                <a class="navbar-brand" href="index.html" style="font-size: 44px;" >බලය</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
