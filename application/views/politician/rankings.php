@@ -14,7 +14,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/woman-5.jpg" width="50" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">1</span>
+                                            <span class="date" style="font-size: 39px;">1</span>
                                             <span class="user">Mary D.</span>
                                             <div class="message">PM</div>
                                             <span>Parliment Participation</span>
@@ -46,7 +46,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/guy-3.jpg" height="50" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">2</span>
+                                            <span class="date" style="font-size: 39px;">2</span>
                                             <span class="user">Adrian T.</span>
                                             <div class="message">Minister of Trade</div>
                                             <span>Parliment Participation</span>
@@ -78,7 +78,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/woman-4.jpg" width="50" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">3</span>
+                                            <span class="date" style="font-size: 39px;">3</span>
                                             <span class="user">Michelle A.</span>
                                             <div class="message">Minister of Finance</div>
                                             <span>Parliment Participation</span>
@@ -110,7 +110,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/woman-3.jpg" height="50" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">4</span>
+                                            <span class="date" style="font-size: 39px;">4</span>
                                             <span class="user">Sue T.</span>
                                             <div class="message">Minister of Food</div>
                                             <span>Parliment Participation</span>
@@ -142,7 +142,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/guy-9.jpg" height="70" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">5</span>
+                                            <span class="date" style="font-size: 39px;">5</span>
                                             <span class="user">Adrian T.</span>
                                             <div class="message">PM</div>
                                             <span>Parliment Participation</span>
@@ -174,7 +174,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/woman-9.jpg" height="50" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">6</span>
+                                            <span class="date" style="font-size: 39px;">6</span>
                                             <span class="user">Adrian T.</span>
                                             <div class="message">PM</div>
                                             <span>Parliment Participation</span>
@@ -206,7 +206,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/guy-6.jpg" height="50" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">7</span>
+                                            <span class="date" style="font-size: 39px;">7</span>
                                             <span class="user">Adrian T.</span>
                                             <div class="message">Minister of economy</div>
                                             <span>Parliment Participation</span>
@@ -238,7 +238,7 @@ $this->load->view('template/politicianNav');
                                             <img src="/kathanayake/dist/images/people/110/guy-2.jpg" height="50" alt="" />
                                         </div>
                                         <div class="media-body">
-                                            <span class="date">8</span>
+                                            <span class="date" style="font-size: 39px;">8</span>
                                             <span class="user">Adrian T.</span>
                                             <div class="message">Dept Minister of Sports</div>
                                             <span>Parliment Participation</span>

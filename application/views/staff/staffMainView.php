@@ -16,7 +16,7 @@ $(function () {
                 zoomType: 'x'
             },
             title: {
-                text: 'USD to EUR exchange rate over time'
+                text: 'User Engagement'
             },
             subtitle: {
                 text: document.ontouchstart === undefined ?
@@ -27,7 +27,7 @@ $(function () {
             },
             yAxis: {
                 title: {
-                    text: 'Exchange rate'
+                    text: 'Number of Users'
                 }
             },
             legend: {
@@ -62,7 +62,7 @@ $(function () {
 
             series: [{
                 type: 'area',
-                name: 'USD to EUR',
+                name: 'Number of Users',
                 data: data
             }]
         });
