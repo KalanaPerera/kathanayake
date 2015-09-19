@@ -10,55 +10,28 @@
 
     
      <div class="container">
-        <div class="cover profile">
+<!--        <div class="cover profile">
             <div class="wrapper">
+                
+                <div class="col-md-12">
+                    
+                    <div class="col-md-2">
+                        
+                    </div>
+                    
+                    <div class="col-md-3">
+                        
+                        <h3>Kalana Perera</h3>
+                        
+                    </div>
+                    
+                    
+                </div>
+                
                 <div class="image">
                     <img src="/kathanayake/dist/images/profile-cover.jpg" alt="people" />
                 </div>
-                <ul class="friends">
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/guy-6.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/woman-3.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/guy-2.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/guy-9.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/woman-9.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/guy-4.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/guy-1.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="/kathanayake/dist/images/people/110/woman-4.jpg" alt="people" class="img-responsive">
-                        </a>
-                    </li>
-                    <li><a href="#" class="group"><i class="fa fa-group"></i></a>
-                    </li>
-                </ul>
+
             </div>
             <div class="cover-info">
                 <div class="avatar">
@@ -78,9 +51,429 @@
                     </li>
                 </ul>
             </div>
+        </div>-->
+         
+         
+         <div class="col-md-4">
+             
+               <div class="timeline row" data-toggle="gridalicious">
+            
+              <div class="timeline-block">
+                  <div class="panel panel-default profile-card" style="margin-top: 105px;">
+                    <div class="panel-body">
+                        <div class="profile-card-icon" style="background: #fff;background: transparent;border: none">
+                            <img style="border-radius: 50px" src="/kathanayake/dist/images/people/110/guy-5.jpg" alt="people" />
+                            <i class="fa fa-graduation-cap"></i>
+                        </div>
+                        <h4 class="text-center">Hello world</h4>
+                        <ul class="profile-card-items">
+                            <li><i class="fa fa-map-marker"></i> Amsterdam, Europe</li>
+                            <li><i class="fa fa-trophy"></i> 1st in Class</li>
+                            <li><i class="fa fa-calendar"></i> 31st Oct 2014</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+             
+         </div>
+             
+         </div>
+         
+             <div class="col-md-8">
+            
+             <div class="panel panel-default">
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="active"><a href="#home" role="tab" data-toggle="tab"><i class="fa fa-picture-o"></i> Pending Questions </a>
+                </li>
+                <li class=""><a href="#profile" role="tab" data-toggle="tab"><i class="fa fa-folder"></i> Answered Questions </a>
+                </li>
+                
+                
+                <li class=""><a href="#rating" role="tab" data-toggle="tab"><i class="fa fa-folder"></i> Member Rating</a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab-pane fade active in" style="min-height: 281px;" id="home">
+                     <table class="table v-middle">
+                    <thead>
+                        <tr>
+                      
+                            <th>Date Accepted  </th>
+                            <th>Name</th>
+                            <!--<th>Email</th>-->
+                            <th>Problem Location</th>
+                            <th> Questions Status</th>
+                            <th>progress </th>
+                            <!--<th class="text-right">Action</th>-->
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                         
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                                 Water Problem</td>
+                            <!--<td><a href="#">contact@mosaicpro.biz</a>-->
+                            <!--</td>-->
+                            <td>Kelaniya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                            
+                            <td> Contacted who is responsible  </td>
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                        
+                        </tr>
+                        <tr>
+                        
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                                Elephant Problem Anuradapura</td>
+<!--                            <td><a href="#">contact@mosaicpro.biz</a>
+                            </td>-->
+                            <td>Anuradapura, Sri Lanka <a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                             <td> In queue </td>
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                          
+                        </tr>
+                        
+                         <tr>
+                         
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                               Road Problem</td>
+                            <!--<td><a href="#">contact@mosaicpro.biz</a>-->
+                            <!--</td>-->
+                            <td>Kelaniya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                             <td> almost done </td>
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                          
+                        </tr>
+                     
+                    </tbody>
+                </table>
+                </div>
+                <div class="tab-pane fade" style="min-height: 281px;" id="profile">
+
+
+
+
+
+      <table class="table v-middle">
+                    <thead>
+                        <tr>
+                      
+                            <th>Date Completed  </th>
+                            <th>Name</th>
+                            <!--<th>Email</th>-->
+                            <th>Problem Location</th>
+                            <!--<th> Questions Status</th>-->
+                            <th>progress </th>
+                            <!--<th class="text-right">Action</th>-->
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                         
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                                 Flood Issue </td>
+                            <!--<td><a href="#">contact@mosaicpro.biz</a>-->
+                            <!--</td>-->
+                            <td>Anuradhapura, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                            
+                            <!--<td> Contacted who is responsible  </td>-->
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                        
+                        </tr>
+                        <tr>
+                        
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                                Elephant Fence Issue</td>
+<!--                            <td><a href="#">contact@mosaicpro.biz</a>
+                            </td>-->
+                            <td>Anuradapura, Sri Lanka <a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                             <!--<td> In queue </td>-->
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                          
+                        </tr>
+                        
+                         <tr>
+                         
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                               Garbage Problem near the Temple</td>
+                            <!--<td><a href="#">contact@mosaicpro.biz</a>-->
+                            <!--</td>-->
+                            <td>Kelaniya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                             <!--<td> almost done </td>-->
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                          
+                        </tr>
+                     
+                           <tr>
+                         
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>  </td>
+                            <!--<td><a href="#">contact@mosaicpro.biz</a>-->
+                            <!--</td>-->
+                            <td>Anuradhapura, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                            
+                            <!--<td> Contacted who is responsible  </td>-->
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                        
+                        </tr>
+                        <tr>
+                        
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                                Elephant Fence Issue</td>
+<!--                            <td><a href="#">contact@mosaicpro.biz</a>
+                            </td>-->
+                            <td>Anuradapura, Sri Lanka <a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                             <!--<td> In queue </td>-->
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                          
+                        </tr>
+                        
+                         <tr>
+                         
+                            <td> <span class="">19/09/2014</span>
+                            </td>
+                            <td>
+                               Garbage Problem near the Temple</td>
+                            <!--<td><a href="#">contact@mosaicpro.biz</a>-->
+                            <!--</td>-->
+                            <td>Kelaniya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            </td>
+                             <!--<td> almost done </td>-->
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                          
+                        </tr>
+                    </tbody>
+                </table>
+
+
+
+
+
+
+
+
+
+
+                </div>
+                
+                
+                
+                
+                
+                
+                  <div class="tab-pane fade" style="min-height: 281px;" id="rating">
+
+
+
+
+
+ddsds
+
+
+
+
+
+
+                </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <div class="tab-pane fade" style="min-height: 281px;" id="dropdown1">
+                    <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork. Williamsburg banh mi whatever gluten-free, carles pitchfork biodiesel fixie etsy retro mlkshk vice blog. Scenester cred you probably haven't heard of them, vinyl craft beer blog stumptown. Pitchfork sustainable tofu synth chambray yr.</p>
+                </div>
+                <div class="tab-pane fade" id="dropdown2">
+                    <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater. Lomo wolf viral, mustache readymade thundercats keffiyeh craft beer marfa ethical. Wolf salvia freegan, sartorial keffiyeh echo park vegan.</p>
+                </div>
+            </div>
         </div>
-        <div class="timeline row" data-toggle="gridalicious">
-            <div class="timeline-block">
+<!--        <div class="row">
+            <div class="col-md-6">
+
+                Friends 
+                <div class="panel panel-default">
+                    <div class="panel-heading panel-heading-gray">
+                        <a href="#" class="btn btn-white btn-xs pull-right"><i class="fa fa-pencil"></i></a>
+                        <i class="fa fa-info-circle"></i> About
+                    </div>
+                    <div class="panel-body">
+                        <ul class="list-unstyled profile-about">
+                            <li>
+                                <div class="row">
+                                    <div class="col-sm-4"><span class="text-muted">Date of Birth</span>
+                                    </div>
+                                    <div class="col-sm-8">12 January 1990</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="row">
+                                    <div class="col-sm-4"><span class="text-muted">Job</span>
+                                    </div>
+                                    <div class="col-sm-8">Specialist</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="row">
+                                    <div class="col-sm-4"><span class="text-muted">Gender</span>
+                                    </div>
+                                    <div class="col-sm-8">Male</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="row">
+                                    <div class="col-sm-4"><span class="text-muted">Lives in</span>
+                                    </div>
+                                    <div class="col-sm-8">Miami, FL, USA</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="row">
+                                    <div class="col-sm-4"><span class="text-muted">Credits</span>
+                                    </div>
+                                    <div class="col-sm-8">249</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+
+                Friends 
+                <div class="panel panel-default">
+                    <div class="panel-heading panel-heading-gray">
+                        <a href="#" class="btn btn-primary btn-xs pull-right">Add <i class="fa fa-plus"></i></a>
+                        <i class="icon-user-1"></i> Friends
+                    </div>
+                    <ul class="list-unstyled friends-list">
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/guy-6.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/woman-3.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/guy-2.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/guy-9.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/woman-9.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/guy-4.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/guy-1.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/woman-4.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="images/people/110/guy-6.jpg" alt="image" class="img-responsive" />
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>-->
+            
+            
+<!--            <div class="timeline-block">
                 <div class="panel panel-default share">
                     <div class="panel-heading panel-heading-gray title">
                         What&acute;s new
@@ -101,8 +494,8 @@
                         <button type="submit" class="btn btn-primary btn-xs pull-right display-none" href="#">Post</button>
                     </div>
                 </div>
-            </div>
-            <div class="timeline-block">
+            </div>-->
+<!--            <div class="timeline-block">
                 <div class="panel panel-default relative">
                     <img src="/kathanayake/dist/images/place2-full.jpg" alt="place" class="img-responsive">
                     <div class="panel-body panel-boxed text-center">
@@ -122,8 +515,8 @@
                         <a href="#" class="user-count-circle">12+</a>
                     </div>
                 </div>
-            </div>
-            <div class="timeline-block">
+            </div>-->
+<!--            <div class="timeline-block">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <div class="media">
@@ -232,8 +625,8 @@
                         </li>
                     </ul>
                 </div>
-            </div>
-            <div class="timeline-block">
+            </div>-->
+<!--            <div class="timeline-block">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <div class="media">
@@ -348,7 +741,7 @@
                                         </g>
                                     </svg>
 
-                                    <!-- cloudDrizzleSunFill -->
+                                     cloudDrizzleSunFill 
                                     </div>
                                 <div class="col-xs-4 text-center">
                                     <div>Tomorrow</div>
@@ -375,7 +768,7 @@
                                         </g>
                                     </svg>
 
-                                    <!-- sun -->
+                                     sun 
                                     </div>
                                 <div class="col-xs-4 text-center">
                                     <div>Saturday</div>
@@ -396,7 +789,7 @@
                                         </g>
                                     </svg>
 
-                                    <!-- cloudRainFill -->
+                                     cloudRainFill 
                                     </div>
                             </div>
                         </div>
@@ -431,7 +824,7 @@
                                 </g>
                             </svg>
 
-                            <!-- cloudDrizzleSunFill -->
+                             cloudDrizzleSunFill 
                             <div class="clearfix"></div>
                             <div class="details">Today:
                                 <strong>10&deg; C</strong>
@@ -450,8 +843,8 @@
                         </li>
                     </ul>
                 </div>
-            </div>
-            <div class="timeline-block">
+            </div>-->
+<!--            <div class="timeline-block">
                 <div class="panel panel-default profile">
                     <div class="cover-container">
                         <img src="/kathanayake/dist/images/place1-full.jpg" alt="place" class="img-responsive" />
@@ -528,23 +921,9 @@
                     </ul>
                     <div class="clearfix"></div>
                 </div>
-            </div>
-            <div class="timeline-block">
-                <div class="panel panel-default profile-card">
-                    <div class="panel-body">
-                        <div class="profile-card-icon">
-                            <i class="fa fa-graduation-cap"></i>
-                        </div>
-                        <h4 class="text-center">Graduation Badge</h4>
-                        <ul class="profile-card-items">
-                            <li><i class="fa fa-map-marker"></i> Amsterdam, Europe</li>
-                            <li><i class="fa fa-trophy"></i> 1st in Class</li>
-                            <li><i class="fa fa-calendar"></i> 31st Oct 2014</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="timeline-block">
+            </div>-->
+          
+<!--            <div class="timeline-block">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <div class="media">
@@ -685,6 +1064,6 @@
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div>-->
         </div>
     </div>
