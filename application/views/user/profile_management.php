@@ -30,11 +30,11 @@
                          <li class="list-group-item"><i class="fa fa-calendar-o"></i> <a href="<?php echo base_url('user/profile') ?>"> All Post  </a></li>
 
                         
-                        <li class="list-group-item"><i class="fa fa-calendar-o"></i> <a href="<?php echo base_url('user/profile?page=t') ?>"> Trending Post  </a></li>
+                        <li class="list-group-item"><i class="fa fa-fw fa-line-chart"></i> <a href="<?php echo base_url('user/profile?page=t') ?>"> Trending Post  </a></li>
 
-                        <li class="list-group-item"><i class="fa fa-globe"></i> <a href="<?php echo base_url('user/profile?page=q') ?>"> Questions  </a></li>
+                        <li class="list-group-item"><i class="fa fa-users"></i> <a href="<?php echo base_url('user/profile?page=q') ?>"> Questions  </a></li>
                         <!--<li class="list-group-item"><i class="fa fa-clock-o"></i> <a href="?page=t"> Questions  </a></li>-->
-                        <li class="list-group-item"><i class="fa fa-users"></i>   <a href="<?php echo base_url('user/profile?page=a') ?>">Answered</a>
+                        <li class="list-group-item"><i class="fa fa-fw fa-check-circle-o"></i>   <a href="<?php echo base_url('user/profile?page=a') ?>">Answered</a>
                         </li>
                     </ul>
                  
@@ -48,9 +48,7 @@
         
     </div>
 
-    <div class="col-md-8"><h4 style="text-align: center">Profile Manager</h4>
-        
-        <hr/>
+    <div class="col-md-8">
         
         
         <?php

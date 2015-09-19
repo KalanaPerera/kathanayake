@@ -1,4 +1,10 @@
- <div class="panel panel-default">
+
+<h4 style="text-align: center"><i class="fa fa-fw fa-line-chart"></i>  Trending Post    </h4>
+        
+        <hr/>
+
+
+<div class="panel panel-default">
             <div class="panel-heading panel-heading-gray">
                My trending posts
             </div>

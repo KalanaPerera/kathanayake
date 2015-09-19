@@ -20,6 +20,8 @@
                          <li><a href="<?php echo base_url('feeds'); ?>">Community funded projects </a>
                              
                              <li><a href="<?php echo base_url('user/profile'); ?>">My Profile </a>
+                                 
+                                  <li><a href="<?php echo base_url('main/map_feeds'); ?>"> Map View </a>
                     </li>
 <!--                    <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>

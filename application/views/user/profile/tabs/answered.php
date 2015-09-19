@@ -1,4 +1,16 @@
- <div class="panel panel-default">
+
+
+
+<h4 style="text-align: center"><i class="fa fa-fw fa-check-circle-o"></i> Answered </h4>
+        
+        <hr/>
+
+
+
+
+
+
+<div class="panel panel-default">
             <div class="panel-heading panel-heading-gray">
               Answered
             </div>
