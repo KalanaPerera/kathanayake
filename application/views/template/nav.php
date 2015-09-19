@@ -15,9 +15,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="main-nav">
                 <ul class="nav navbar-nav">
-                    <li><a href="../index.html">Themes</a>
+                    <li><a href="<?php echo base_url('feeds'); ?>">Home</a>
+                        
+                         <li><a href="<?php echo base_url('feeds'); ?>">Community funded projects </a>
+                             
+                             <li><a href="<?php echo base_url('user/profile'); ?>">My Profile </a>
                     </li>
-                    <li class="dropdown">
+<!--                    <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li class="dropdown-header">Public User Pages</li>
@@ -37,8 +41,8 @@
                             <li><a href="user-private-users.html">Friends</a>
                             </li>
                         </ul>
-                    </li>
-                    <li class="dropdown">
+                    </li>-->
+<!--                    <li class="dropdown">
                         <a href="buttons.html" class="dropdown-toggle" data-toggle="dropdown">UI Components <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li>
@@ -60,7 +64,7 @@
                                 <a href="tables.html"><i class="fa fa-table"></i> Tables</a>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
 <!--                    <li data-toggle="tooltip" data-placement="bottom" title="A few Color Examples. Download includes CSS Files for all color examples & the tools to Generate any Color combination. This Color-Switcher is for previewing purposes only.">
                         <ul class="skins">
                             <li><span data-skin="default" style="background: #16ae9f "></span>
@@ -88,7 +92,7 @@
                     <!-- User -->
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle user" data-toggle="dropdown">
-                            <img src="images/people/110/guy-5.jpg" alt="Bill" class="img-circle" width="40" /> Bill <span class="caret"></span>
+                            <img src="/kathanayake/dist/images/people/110/guy-5.jpg" alt="Bill" class="img-circle" width="40" /> Kalana <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="user-private-profile.html">Profile</a>

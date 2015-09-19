@@ -28,14 +28,47 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+        <h4 class="modal-title" id="myModalLabel">Share with social </h4>
       </div>
       <div class="modal-body">
-        ...
+          
+          
+       
+          
+          <div class="col-md-12">
+              
+              <div class="col-md-4">
+                  
+                  <i style="font-size: 25px" class="fa fa-fw fa-facebook-square"></i>
+                  
+              </div>
+              
+               <div class="col-md-4">
+                  
+                  <i style="font-size: 25px" class="fa fa-fw fa-google-plus"></i>
+                  
+              </div>
+              
+              
+               <div class="col-md-4">
+                  
+                  <i style="font-size: 25px" class="fa fa-fw fa-twitter-square"></i>
+                  
+              </div>
+              
+             
+              
+              
+          </div>
+          
+           <div class="clearfix"></div>
+          
+          
+          
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <!--<button type="button" class="btn btn-primary">Save changes</button>-->
       </div>
     </div>
   </div>
@@ -170,7 +203,7 @@
                             
                             <div class="media">
                                 <a href="#" class="media-object pull-left">
-                                    <img src="/kathanayake/dist/images/food1-full.jpg" alt=""/>
+                                    <img src="/kathanayake/dist/images/broken_road.jpg" alt=""/>
                                 </a>
 <!--                                <div class="media-body">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor impedit ipsum laborum maiores tempore veritatis....</p>
@@ -244,11 +277,78 @@
                        PM Rankings (latest) 
                     </div>
                     <ul class="list-group">
-                        <li class="list-group-item"><i class="fa fa-globe"></i> Miami, FL</li>
-                        <li class="list-group-item"><i class="fa fa-calendar-o"></i> 31st Oct 2014</li>
-                        <li class="list-group-item"><i class="fa fa-clock-o"></i> 5:50 PM</li>
-                        <li class="list-group-item"><i class="fa fa-users"></i> 9 Attendees <a href="#" class="btn btn-primary btn-xs pull-right">Attend</a>
-                        </li>
+<!--                        <li class="list-group-item"><i class="fa fa-user"></i> Mahinda Rajapakshe </li>
+                        <li class="list-group-item"><i class="fa fa-user"></i> Maithripala Sirisena</li>
+                        <li class="list-group-item"><i class="fa fa-user"></i> Ranil </li>
+                        <li class="list-group-item"><i class="fa fa-user"></i> Basil Rajapakshe
+                        </li>-->
+                        
+                        
+                         <div class="table-responsive">
+                <table class="table v-middle">
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Name</th>
+                            <!--<th>Email</th>-->
+                            <th>Ratings</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td> <i class="fa fa-user"></i>  </td>
+                            <td>  Mahinda Rajapakshe </td>
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar  progress-bar-success" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        
+                          <tr>
+                            <td> <i class="fa fa-user"></i>  </td>
+                            <td>  Maithripala Sirisena </td>
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="57" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        
+                          <tr>
+                            <td> <i class="fa fa-user"></i>  </td>
+                            <td> Ranil Wicramasinghe </td>
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        
+                          <tr>
+                            <td> <i class="fa fa-user"></i>  </td>
+                            <td>  Basil Rajapakshe </td>
+                            <td>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                       
+                    </tbody>
+                </table>
+            </div>
+                        
+                        
+                        
+                        
+                        
+                        
                     </ul>
                  
                     <div class="clearfix"></div>

@@ -64,7 +64,7 @@
                             
                             <div class="media">
                                 <a href="#" class="media-object pull-left">
-                                    <img src="/kathanayake/dist/images/food1-full.jpg" alt=""/>
+                                    <img src="/kathanayake/dist/images/broken_road.jpg" alt=""/>
                                 </a>
 <!--                                <div class="media-body">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor impedit ipsum laborum maiores tempore veritatis....</p>

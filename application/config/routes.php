@@ -46,7 +46,7 @@ $route['404_override'] = '';
 $route['login'] = "user/user/login_page";
 $route['feeds'] = "user/feeds/index";
 $route['feeds/id/(:any)'] = "user/feeds/feeds_by_id";
-$route['user/management'] = "user/user/profile_management";
+$route['user/profile'] = "user/user/profile_management";
 
 
 /* End of file routes.php */
