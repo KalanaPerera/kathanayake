@@ -4,8 +4,7 @@
     </div>-->
 
     <!-- // Footer -->
-    
-<!-- Vendor Scripts Bundle --><script src="/kathanayake/dist/js/vendor.min.js"></script>
+
 
     <!-- App Scripts Bundle -->
     <script src="/kathanayake/dist/js/scripts.min.js"></script>
@@ -134,5 +133,6 @@ initialize();
          })
          
      </script>
+
 </body>
 </html>
