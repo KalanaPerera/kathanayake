@@ -1,7 +1,7 @@
     <!-- Footer -->
-    <div class="footer">
+<!--    <div class="footerk">
         Social Network Template &copy; Copyright Notice
-    </div>
+    </div>-->
 
     <!-- // Footer -->
     

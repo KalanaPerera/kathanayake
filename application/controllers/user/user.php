@@ -17,6 +17,17 @@ class user extends CI_CONTROLLER{
         
     }
     
+    public function profile_management(){
+        
+        
+        $this->load->view('template/header');
+        $this->load->view('user/profile_management');
+        $this->load->view('template/footer');
+        
+        
+        
+    }
+    
     
     
 }

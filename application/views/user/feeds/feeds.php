@@ -62,12 +62,15 @@
                                 
                                 
                                 
-                               <div class="rating text-left pull-right">
-                                <span class="star"></span>
+                               <div class="rating text-left pull-right">      
+                                    <span>   <i  style="cursor: pointer" class="fa fa-thumbs-up"></i> <span style="font-size: 12px;"> 20 </span> </span>
+                                    <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span style="font-size: 12px;"> 7 </span> </span>
+                                    
+<!--                                <span class="star"></span>
                                 <span class="star "></span>
                                 <span class="star "></span>
                                 <span class="star "></span>
-                                <span class="star "></span>
+                                <span class="star "></span>-->
                             </div>
                                 
                                 <button style="margin-right: 20px;" type="button" class="btn  btn-warning pull-right" data-toggle="modal" data-target="#myModal">
@@ -137,11 +140,18 @@
                             <div class="media-body">
                                 
                                 <div class="rating text-left pull-right">
-                                <span class="star"></span>
+                                    
+                                          
+                                    <span>   <i  style="cursor: pointer" class="fa fa-thumbs-up"></i> <span style="font-size: 12px;"> 20 </span> </span>
+                                    <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span style="font-size: 12px;"> 7 </span> </span>
+                                    
+                                    
+                                    
+<!--                                <span class="star"></span>
                                 <span class="star "></span>
                                 <span class="star "></span>
                                 <span class="star "></span>
-                                <span class="star "></span>
+                                <span class="star "></span>-->
                             </div>
                                 
                                                         <button style="margin-right: 20px;" type="button" class="btn  btn-warning pull-right" data-toggle="modal" data-target="#myModal">
