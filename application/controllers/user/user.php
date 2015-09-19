@@ -1,32 +1,32 @@
 <?php
 
 /*
- * kalana
+ * Kalana
  */
 
-class main extends CI_CONTROLLER{
+class user extends CI_CONTROLLER{
     
-    public function index(){
-       
-        $this->load->view('template/header');
-        $this->load->view('main');
-        $this->load->view('template/footer');
-                
-    }
     
-   
-    public function map_feeds(){
+    
+     public function login_page(){
         
         
         $this->load->view('template/header');
-        $this->load->view('map/feeds');
+        $this->load->view('user/login');
+        $this->load->view('template/footer');
+        
+    }
+    
+    public function profile_management(){
+        
+        
+        $this->load->view('template/header');
+        $this->load->view('user/profile_management');
         $this->load->view('template/footer');
         
         
         
     }
-    
-    
     
     
     

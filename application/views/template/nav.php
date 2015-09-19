@@ -9,15 +9,21 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a data-toggle="sidebar-chat" class="btn btn-link navbar-btn visible-xs"><i class="fa fa-comments"></i></a>
-                <a class="navbar-brand" href="index.html">Social</a>
+                <a class="navbar-brand" href="">Social</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="main-nav">
                 <ul class="nav navbar-nav">
-                    <li><a href="../index.html">Themes</a>
+                    <li><a href="<?php echo base_url('feeds'); ?>">Home</a>
+                        
+                         <li><a href="<?php echo base_url('feeds'); ?>">Community funded projects </a>
+                             
+                             <li><a href="<?php echo base_url('user/profile'); ?>">My Profile </a>
+                                 
+                                  <li><a href="<?php echo base_url('main/map_feeds'); ?>"> Map View </a>
                     </li>
-                    <li class="dropdown">
+<!--                    <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li class="dropdown-header">Public User Pages</li>
@@ -37,8 +43,8 @@
                             <li><a href="user-private-users.html">Friends</a>
                             </li>
                         </ul>
-                    </li>
-                    <li class="dropdown">
+                    </li>-->
+<!--                    <li class="dropdown">
                         <a href="buttons.html" class="dropdown-toggle" data-toggle="dropdown">UI Components <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li>
@@ -60,8 +66,8 @@
                                 <a href="tables.html"><i class="fa fa-table"></i> Tables</a>
                             </li>
                         </ul>
-                    </li>
-                    <li data-toggle="tooltip" data-placement="bottom" title="A few Color Examples. Download includes CSS Files for all color examples & the tools to Generate any Color combination. This Color-Switcher is for previewing purposes only.">
+                    </li>-->
+<!--                    <li data-toggle="tooltip" data-placement="bottom" title="A few Color Examples. Download includes CSS Files for all color examples & the tools to Generate any Color combination. This Color-Switcher is for previewing purposes only.">
                         <ul class="skins">
                             <li><span data-skin="default" style="background: #16ae9f "></span>
                             </li>
@@ -76,7 +82,7 @@
                             <li><span data-skin="default-nav-inverse" style="background: #242424 "></span>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden-xs">
@@ -88,7 +94,7 @@
                     <!-- User -->
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle user" data-toggle="dropdown">
-                            <img src="images/people/110/guy-5.jpg" alt="Bill" class="img-circle" width="40" /> Bill <span class="caret"></span>
+                            <img src="/kathanayake/dist/images/people/110/guy-5.jpg" alt="Bill" class="img-circle" width="40" /> Kalana <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="user-private-profile.html">Profile</a>
@@ -107,10 +113,10 @@
     </div>
     
     
-    <nav class="navbar navbar-subnav navbar-static-top" role="navigation">
+<!--    <nav class="navbar navbar-subnav navbar-static-top" role="navigation">
         <div class="container">
 
-            <!-- Brand and toggle get grouped for better mobile display -->
+             Brand and toggle get grouped for better mobile display 
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subnav">
                     <span class="sr-only">Toggle navigation</span>
@@ -118,7 +124,7 @@
                 </button>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
+             Collect the nav links, forms, and other content for toggling 
             <div class="collapse navbar-collapse" id="subnav">
                 <ul class="nav navbar-nav">
                     <li class="active">
@@ -140,6 +146,6 @@
                 </ul>
             </div>
 
-            <!-- /.navbar-collapse -->
+             /.navbar-collapse 
             </div>
-    </nav>
+    </nav>-->

@@ -11868,6 +11868,8 @@ fieldset[disabled] .btn-inverse.active {
   font-weight: normal;
   font-style: normal;
   display: inline-block;
+  
+  color: #333
 }
 .rating span.star:hover {
   cursor: pointer;
@@ -11881,7 +11883,7 @@ fieldset[disabled] .btn-inverse.active {
 .rating span.star.filled:before,
 .rating span.star:hover ~ span.star:before {
   content: "\f005";
-  color: #25ad9f;
+  color: #FFE626;
 }
 .text-primary {
   color: #25ad9f;
