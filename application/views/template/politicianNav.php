@@ -10,7 +10,7 @@
                 </button>
                 <a data-toggle="sidebar-chat" class="btn btn-link navbar-btn visible-xs"><i class="fa fa-comments"></i></a>
                 <img src="/kathanayake/dist/images/logo-square_50.png" class="img-circle" align="left">
-                <a class="navbar-brand" href="#" style="font-size: 44px;" >බලය</a>
+                <a class="navbar-brand" href="<?php echo base_url('/politician/main/'); ?>" style="font-size: 44px;" >බලය</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
