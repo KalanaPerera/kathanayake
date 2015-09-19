@@ -3,7 +3,7 @@
     
     <?php
     
-    $this->load->view('template/nav');
+    $this->load->view('template/politicianNav');
     
     
     ?>
@@ -65,7 +65,7 @@
                             <img style="border-radius: 50px" src="/kathanayake/dist/images/people/110/guy-5.jpg" alt="people" />
                             <i class="fa fa-graduation-cap"></i>
                         </div>
-                        <h4 class="text-center">Hello world</h4>
+                        <h4 class="text-center">John W</h4>
                         <ul class="profile-card-items">
                             <li><i class="fa fa-map-marker"></i> Amsterdam, Europe</li>
                             <li><i class="fa fa-trophy"></i> 1st in Class</li>
