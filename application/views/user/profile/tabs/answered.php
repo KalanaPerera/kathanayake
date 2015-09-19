@@ -20,9 +20,9 @@
                 <table class="table v-middle">
                     <thead>
                         <tr>
-                            <th width="20">
+<!--                            <th width="20">
                                 <input type="checkbox" name="checkbox" id="checkAll" />
-                            </th>
+                            </th>-->
                             <th>Date</th>
                             <th>Name</th>
                             <!--<th>Email</th>-->
@@ -34,9 +34,9 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td>
+<!--                            <td>
                                 <input type="checkbox" />
-                            </td>
+                            </td>-->
                             <td> <span class="label label-gray">19/09/2014</span>
                             </td>
                             <td>
@@ -48,10 +48,9 @@
                             
                             <td> 25K </td>
                             <td>
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                                    </div>
-                                </div>
+                                        <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 20 </span> </span>
+                                    <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span "> 7 </span> </span>
+
                             </td>
                             <td class="text-right">
                                 <a href="#" class="btn btn-default btn-xs" data-toggle="tooltip" data-placement="top" title="Edit"><i class="fa fa-pencil"></i></a>
