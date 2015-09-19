@@ -9,7 +9,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a data-toggle="sidebar-chat" class="btn btn-link navbar-btn visible-xs"><i class="fa fa-comments"></i></a>
-                <a class="navbar-brand" href="index.html">බලය Managemnet Panel</a>
+                <img src="/kathanayake/dist/images/logo-square_50.png" class="img-circle" align="left">
+                <a class="navbar-brand" href="index.html" style="font-size: 44px;">බලය</a><a class="navbar-brand">Managemnet Panel</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -52,20 +53,26 @@
             <div class="collapse navbar-collapse" id="subnav">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="index.html"><i class="fa fa-fw icon-ship-wheel"></i>New Post</a>
+                        <a href="<?php echo base_url('/staff/main/newPost'); ?>"><i class="fa fa-fw icon-ship-wheel"></i>New Post</a>
                     </li>
                     <li>
-                        <a href="user-private-profile.html"><i class="fa fa-fw icon-user-1"></i>Post Qulity Check</a>
+                        <a href="<?php echo base_url('/staff/main/postQulityCheck'); ?>"><i class="fa fa-fw icon-user-1"></i>Post Qulity Check</a>
                     </li>
-                    <li>
+                    <!--<li>
                         <a href="user-private-users.html"><i class="fa fa-fw fa-cross"></i>Problem Verification</a>
-                    </li>
+                    </li>-->
                     <li>
-                        <a href="user-private-messages.html"><i class="fa fa-fw fa-group"></i>Community Projects</a>
+                        <a href="<?php echo base_url('/staff/main/communityProjects'); ?>"><i class="fa fa-fw fa-group"></i>Community Projects</a>
+                    </li>
+                   	<li>
+                        <a href="<?php echo base_url('/staff/main/politician'); ?>"><i class="fa fa-fw fa-group"></i>Politician Management</a>
+                    </li>
+                   	<li>
+                        <a href="<?php echo base_url('/staff/main/politicianOverview'); ?>"><i class="fa fa-fw fa-group"></i>Politician Overview</a>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right hidden-xs">
-                    <li><a href="login.html">Logout  <i class="fa fa-fw icon-unlock-fill"></i></a>
+                    <li><a href="<?php echo base_url('/staff/main/login'); ?>">Logout  <i class="fa fa-fw icon-unlock-fill"></i></a>
                     </li>
                 </ul>
             </div>
