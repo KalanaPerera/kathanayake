@@ -1,8 +1,8 @@
-   
-<!-- Vendor Scripts Bundle --><script src="/kathanayake/dist/js/vendor.min.js"></script>
+<!--   
+ Vendor Scripts Bundle <script src="/kathanayake/dist/js/vendor.min.js"></script>
 
-    <!-- App Scripts Bundle -->
-    <script src="/kathanayake/dist/js/scripts.min.js"></script>
+     App Scripts Bundle 
+    <script src="/kathanayake/dist/js/scripts.min.js"></script>-->
          <script src="https://maps.googleapis.com/maps/api/js?key=&v=3.0&sensor=true&language=ee"></script>
 
       <script>
