@@ -26,7 +26,7 @@ $this->load->view('template/staffnav');
                             <th>Action</th>
                         </tr>
                     </thead>
-                    <tfoot>
+<!--                    <tfoot>
                         <tr>
                             <th>Name</th>
                             <th>Post</th>
@@ -40,11 +40,11 @@ $this->load->view('template/staffnav');
                             <th>Assigned Politician</th>
                             <th>Action</th>
                         </tr>
-                    </tfoot>
+                    </tfoot>-->
                     <tbody>
                         <tr>
-                            <td>User 1</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+                            <td>Kevin</td>
+                            <td>Paddy fields are need immediate water supply</td>
                             <td>Agreculture</td>
                             <td>140</td>
                             <td>14</td>
@@ -59,8 +59,8 @@ $this->load->view('template/staffnav');
                             </td>
                         </tr>
                         <tr>
-                            <td>User 2</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+                            <td>John</td>
+                            <td>Village Hospital running out of general Medicines...need those Immediately....</td>
                             <td>Health</td>
                             <td>14</td>
                             <td>14</td>
@@ -75,8 +75,8 @@ $this->load->view('template/staffnav');
                             </td>
                         </tr>
                         <tr>
-                            <td>User 3</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+                            <td>Joesph</td>
+                            <td>Need some instruments for the school sport team...</td>
                             <td>Education</td>
                             <td>100</td>
                             <td>14</td>
