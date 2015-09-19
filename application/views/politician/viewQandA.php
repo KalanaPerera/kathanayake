@@ -37,8 +37,8 @@ $this->load->view('template/politicianNav');
                     </tfoot>
                     <tbody>
                         <tr style="background-color: #62C462;">
-                            <td>User 1</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet?</td>
+                            <td>Joesph Y</td>
+                            <td>Why you vote for that act? without considering the effects to the environment......</td>
                             <td>Agreculture</td>
                             <td>140</td>
                             <td>14</td>
@@ -50,8 +50,8 @@ $this->load->view('template/politicianNav');
                             </td>
                         </tr>
                         <tr style="background-color: #EE5F5B;">
-                            <td>User 2</td>
-                            <td>Lorem ipsum dolor sit amet?</td>
+                            <td>Baran Powel</td>
+                            <td>Why you choose to build a new hospital in Kagalle area.... we dont need two hospitals....</td>
                             <td>Health</td>
                             <td>14</td>
                             <td>14</td>
@@ -63,8 +63,8 @@ $this->load->view('template/politicianNav');
                             </td>
                         </tr>
                         <tr style="background-color: #FBB450;">
-                            <td>User 3</td>
-                            <td>consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing ?</td>
+                            <td>Helin Gansa</td>
+                            <td>Why the education grant reduce from this budget ? </td>
                             <td>Education</td>
                             <td>100</td>
                             <td>14</td>
@@ -76,8 +76,8 @@ $this->load->view('template/politicianNav');
                             </td>
                         </tr>
                         <tr style="background-color: #62C462;">
-                            <td>User 4</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit?</td>
+                            <td>Samual J</td>
+                            <td>Fertilizer price are getting increase day by day.... any solution for that?</td>
                             <td>Agreculture</td>
                             <td>140</td>
                             <td>14</td>

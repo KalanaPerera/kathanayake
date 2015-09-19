@@ -39,8 +39,8 @@ $this->load->view('template/politicianNav');
                     </tfoot>
                     <tbody>
                         <tr style="background-color: #62C462;">
-                            <td>User 1</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+                            <td>John W</td>
+                            <td>Fertilizer are low qulity and expried....</td>
                             <td>Agreculture</td>
                             <td>140</td>
                             <td>14</td>
@@ -53,8 +53,8 @@ $this->load->view('template/politicianNav');
                             </td>
                         </tr>
                         <tr style="background-color: #EE5F5B;">
-                            <td>User 2</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur </td>
+                            <td>Jane Karry</td>
+                            <td>X ray machines are not working in the area and need to travel more than 50Km to find a place to get a X ray</td>
                             <td>Health</td>
                             <td>14</td>
                             <td>14</td>
@@ -67,8 +67,8 @@ $this->load->view('template/politicianNav');
                             </td>
                         </tr>
                         <tr style="background-color: #FBB450;">
-                            <td>User 3</td>
-                            <td>consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+                            <td>Hilaray E</td>
+                            <td>English teacher vancacy for more than 6 months need Immediate  attention........</td>
                             <td>Education</td>
                             <td>100</td>
                             <td>14</td>
@@ -81,8 +81,8 @@ $this->load->view('template/politicianNav');
                             </td>
                         </tr>
                         <tr style="background-color: #62C462;">
-                            <td>User 4</td>
-                            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+                            <td>Anonymous </td>
+                            <td>Officers are taking bribe when it comes to purchasing the fertilizer.....</td>
                             <td>Agreculture</td>
                             <td>140</td>
                             <td>14</td>
