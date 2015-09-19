@@ -15,7 +15,16 @@ class main extends CI_CONTROLLER{
     }
     
    
-    
+    public function map_feeds(){
+        
+        
+        $this->load->view('template/header');
+        $this->load->view('map/feeds');
+        $this->load->view('template/footer');
+        
+        
+        
+    }
     
     
     
