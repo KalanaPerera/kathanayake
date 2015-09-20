@@ -43,7 +43,7 @@
                             <td>Kelaniya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
                             </td>
                             
-                            <td> 25K </td>
+                            <td> 25,000 </td>
                             <td>
                                        <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 20 </span> </span>
                                     <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span "> 7 </span> </span>
@@ -115,8 +115,8 @@
                             </td>
                              <td> 66 </td>
                             <td>
-                                       <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 20 </span> </span>
-                                    <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span "> 7 </span> </span>
+                                       <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 28 </span> </span>
+                                    <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span "> 5 </span> </span>
 
                             </td>
                             <td class="text-right">
@@ -138,7 +138,7 @@
                             </td>
                              <td> 30 </td>
                             <td>
-                                        <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 20 </span> </span>
+                                        <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 90 </span> </span>
                                     <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span "> 7 </span> </span>
 
                             </td>
@@ -161,8 +161,8 @@
                             </td>
                              <td> 758 </td>
                             <td>
-                                       <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 20 </span> </span>
-                                    <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span "> 7 </span> </span>
+                                       <span>   <i style="cursor: pointer" class="fa fa-thumbs-up"></i> <span > 36 </span> </span>
+                                    <span>  <i style="cursor: pointer" class="fa fa-thumbs-down"></i><span "> 4 </span> </span>
 
                             </td>
                             <td class="text-right">

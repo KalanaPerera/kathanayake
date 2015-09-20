@@ -121,7 +121,7 @@
                             <td>Kelaniya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
                             </td>
                             
-                            <td> Contacted who is responsible  </td>
+                            <td> Review  </td>
                             <td>
                                 <div class="progress">
                                     <div style="width: 60%" class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
@@ -160,7 +160,7 @@
                             <!--</td>-->
                             <td>Kelaniya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
                             </td>
-                             <td> almost done </td>
+                             <td> In Progress </td>
                             <td>
                                 <div class="progress">
                                     <div style="width: 80%" class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
@@ -201,7 +201,7 @@
                                  Flood Issue </td>
                             <!--<td><a href="#">contact@mosaicpro.biz</a>-->
                             <!--</td>-->
-                            <td>Anuradhapura, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            <td>Galle, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
                             </td>
                             
                             <!--<td> Contacted who is responsible  </td>-->
@@ -221,7 +221,7 @@
                                 Elephant Fence Issue</td>
 <!--                            <td><a href="#">contact@mosaicpro.biz</a>
                             </td>-->
-                            <td>Anuradapura, Sri Lanka <a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            <td>Hambanthota, Sri Lanka <a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
                             </td>
                              <!--<td> In queue </td>-->
                             <td>
@@ -257,10 +257,10 @@
                          
                             <td> <span class="">19/09/2014</span>
                             </td>
-                            <td>  </td>
+                            <td> Road problem in Kandy </td>
                             <!--<td><a href="#">contact@mosaicpro.biz</a>-->
                             <!--</td>-->
-                            <td>Anuradhapura, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
+                            <td>Nuwara Eliya, Sri Lanka<a href="#"><i class="fa fa-map-marker fa-fw text-muted"></i></a>
                             </td>
                             
                             <!--<td> Contacted who is responsible  </td>-->
@@ -342,7 +342,7 @@
     <div class="panel" style="background: #fff;border: none; ">
         
         <div class="panel-body">
-                                            <div  style="font-size: 39px; text-align: center">1st</div>
+                                            <div  style="font-size: 39px; text-align: center">12th</div>
                                             
                                             <hr/>
 <!--                                            <span class="user">Mary D.</span>
@@ -406,20 +406,19 @@
                    
                 
                     <tr>
-                        <td>Michael Bruce</td>
-                        <td>Javascript Developer</td>
-                        <td>Singapore</td>
-                        <td>29</td>
-                        <td>2011/06/27</td>
-                        <td>$183,000</td>
+                        <td> Q & A Answer Posted </td>
+                        <td> 12 min ago</td>
+                      
                     </tr>
                     <tr>
-                        <td>Donna Snider</td>
-                        <td>Customer Support</td>
-                        <td>New York</td>
-                        <td>27</td>
-                        <td>2011/01/25</td>
-                        <td>$112,000</td>
+                        <td>New Problem assigned </td>
+                        <td> 1 hour ago</td>
+                       
+                    </tr>
+                      <tr>
+                        <td> Problem resolved </td>
+                        <td>2 days ago</td>
+                       
                     </tr>
                 </tbody>
             </table>

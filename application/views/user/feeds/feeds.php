@@ -74,12 +74,7 @@
   </div>
 </div>
         
-        
-        
-        
-        
-        
-        <div class="timeline row feeds" >
+          <div class="timeline row feeds" >
                  <div class="timeline-block">
                 <div class="panel panel-default">
                     <div class="panel-heading" style="background:  #869694 !important">
@@ -280,7 +275,24 @@ Investigations into the murder are carried out by the Criminal Investigations De
                     </ul>
                 </div>
             </div>
+              
+              
+              
+              
+              
+               
+              
+              
+              
+              
+              
+              
         </div>
+        
+        
+        
+        
+      
     </div>
     
     
